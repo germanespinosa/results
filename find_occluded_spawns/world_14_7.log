@@ -1,2 +1,1 @@
 { 'result_set_name': '/home/german/simulation/results/find_occluded_spawns', 'code_version': { 'hexaworld_commit': '86ac31fbf677722e0ee5c8a93e5d6860b1bd6a34', 'cellworld_commit': '584743ba34995c5b5e51b238cda0983f51b6f31c' }, 'episodes': [
-]}
