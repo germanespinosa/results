@@ -1,1 +1,1 @@
-{"success_reward": 100, "fail_reward": 0, "default_reward": 0, "step_cost": 0.001, "discount": 1}
+{"success_reward": 100, "fail_reward": 0, "default_reward": 0, "step_cost": 0, "discount": 1}

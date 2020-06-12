@@ -1,10 +1,10 @@
 free(): invalid pointer
-failed: ./sim world_7_9 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0.001 -discount 1
+failed: ./sim world_7_9 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0 -discount 1
 corrupted double-linked list
-failed: ./sim world_6_1 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0.001 -discount 1
+failed: ./sim world_6_1 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0 -discount 1
 corrupted double-linked list
-failed: ./sim world_14_1 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0.001 -discount 1
+failed: ./sim world_14_1 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0 -discount 1
 corrupted size vs. prev_size
-failed: ./sim world_1_4 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0.001 -discount 1
+failed: ./sim world_1_4 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0 -discount 1
 free(): invalid pointer
-failed: ./sim world_5_9 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0.001 -discount 1
+failed: ./sim world_5_9 -predator_x 0 -predator_y 7 -predator_randomness 0 -particles 0 -planning_limit_unit roll_outs -planning_limit 0 -workers 36 -iterations 100 -planning_strategy shortest_path -steps 50 -seed 0 -success_reward 100 -fail_reward 0 -default_reward 0 -step_cost 0 -discount 1
